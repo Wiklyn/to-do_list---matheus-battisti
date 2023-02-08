@@ -22,7 +22,7 @@ A [To-Do list](https://wiklyn.github.io/to-do_list---matheus-battisti/) that all
 
 ### Useful resources
 
-- [Curso JavaScript #52 - Criando o projeto do curso](https://youtu.be/KNk0Cex3zcM) - This is the video where he stars the project.
+- [Curso JavaScript #52 - Criando o projeto do curso](https://youtu.be/KNk0Cex3zcM) - This is the video where he starts the project.
 
 ## Author
 
