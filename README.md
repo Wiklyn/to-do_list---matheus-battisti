@@ -11,7 +11,7 @@ This is the project of the JavaScript course taught by Matheus Battisti on his Y
 
 ## Overview
 
-A To-Do list that allows you to add, mark as done, and remove elements.
+A [To-Do list](https://wiklyn.github.io/to-do_list---matheus-battisti/) that allows you to add, mark as done, and remove elements.
 
 
 ### Built with
